@@ -2,7 +2,7 @@
  ** Quản trị: https://pphotelroyallhp.io.vn/admin/login
 - Admin: huynhphuc7012@gmail.com
 - Password: phuc123
-
+--------------------------------------------------------
 - User: huynhphuc7012@gmail.com
 - Password: phuc123
 
